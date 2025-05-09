@@ -1,0 +1,6 @@
+{
+     "private_password_leak_verification" : {
+        "lookup_hash_prefix" : "",
+        "encrypted_user_credentials_hash" : ""
+     }
+}
